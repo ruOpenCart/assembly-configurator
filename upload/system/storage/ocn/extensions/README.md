@@ -1,0 +1,2 @@
+- Список расширений для установки в формате `filename.ocmod.zip`
+- List of extensions to install in `filename.ocmod.zip` format
